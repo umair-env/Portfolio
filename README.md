@@ -5,6 +5,6 @@
 💡 late night coder
 
 # skills
-webdeveloper:HTML,CSS,JAVASCRIPT,NODE.js(basic)
+webdeveloper:HTML,CSS,JAVASCRIPT,NODE.js
 <br>
 Ai: python, Ai prompting,Ai tools,(learning LLM,RIG)
